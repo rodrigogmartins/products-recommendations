@@ -1,0 +1,922 @@
+[
+  {
+    "id": "0",
+    "name": "Cadeira Gamer II",
+    "price": 2299.99,
+    "categories": [
+      "Casa",
+      "Gamer",
+      "Acessórios"
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Fone de ouvido XYZ Pro",
+    "price": 299.99,
+    "categories": [
+      "Áudio",
+      "Tecnologia",
+      "Gadgets"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Smartphone ABC Ultra",
+    "price": 999.99,
+    "categories": [
+      "Tecnologia",
+      "Celulares",
+      "Inovação"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Laptop Gamer XPZ",
+    "price": 1999.99,
+    "categories": [
+      "Computadores",
+      "Tecnologia",
+      "Gamer"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Smartwatch FitBand 5",
+    "price": 149.99,
+    "categories": [
+      "Wearables",
+      "Saúde",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Smart TV UHD 65'' QLED",
+    "price": 1299.99,
+    "categories": [
+      "Eletrônicos",
+      "Televisores",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Câmera Mirrorless Z9",
+    "price": 3499.99,
+    "categories": [
+      "Fotografia",
+      "Tecnologia",
+      "Profissional"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Teclado Mecânico PRO",
+    "price": 129.99,
+    "categories": [
+      "Acessórios",
+      "Gamer",
+      "Computadores"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Mouse Wireless MX Master 3",
+    "price": 99.99,
+    "categories": [
+      "Acessórios",
+      "Tecnologia",
+      "Computadores"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Roteador Wi-Fi 6 AX3600",
+    "price": 249.99,
+    "categories": [
+      "Conectividade",
+      "Tecnologia",
+      "Inovação"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Monitor UltraWide 34''",
+    "price": 499.99,
+    "categories": [
+      "Computadores",
+      "Monitores",
+      "Profissional"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Impressora Multifuncional HP 410",
+    "price": 299.99,
+    "categories": [
+      "Escritório",
+      "Impressoras",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Tablet Lite X10",
+    "price": 599.99,
+    "categories": [
+      "Tecnologia",
+      "Tablets",
+      "Mobilidade"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Fritadeira Air Fryer Gourmet 5L",
+    "price": 199.99,
+    "categories": [
+      "Cozinha",
+      "Eletrodomésticos",
+      "Saúde"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Liquidificador PowerMix Turbo",
+    "price": 89.99,
+    "categories": [
+      "Cozinha",
+      "Eletrodomésticos",
+      "Bebidas"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Console de Videogame NextGen",
+    "price": 499.99,
+    "categories": [
+      "Gamer",
+      "Entretenimento",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Headset Gamer 7.1 Surround",
+    "price": 149.99,
+    "categories": [
+      "Gamer",
+      "Áudio",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Powerbank 20,000mAh Fast Charge",
+    "price": 39.99,
+    "categories": [
+      "Acessórios",
+      "Mobilidade",
+      "Energia"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Drone Camera 4K Vision",
+    "price": 899.99,
+    "categories": [
+      "Fotografia",
+      "Tecnologia",
+      "Drones"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Smart Lâmpada LED RGB Wi-Fi",
+    "price": 29.99,
+    "categories": [
+      "Casa Inteligente",
+      "Iluminação",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Geladeira Smart Frost-Free 500L",
+    "price": 1999.99,
+    "categories": [
+      "Eletrodomésticos",
+      "Cozinha",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Teclado Mecânico RGB Gamer",
+    "price": 89.99,
+    "categories": [
+      "Gamer",
+      "Tecnologia",
+      "Acessórios"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Controle Remoto Universal",
+    "price": 19.99,
+    "categories": [
+      "Acessórios",
+      "Casa",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Kit de Ferramentas 50 Peças",
+    "price": 49.99,
+    "categories": [
+      "Ferramentas",
+      "Casa",
+      "Manutenção"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Carregador Solar Portátil",
+    "price": 39.99,
+    "categories": [
+      "Energia",
+      "Acessórios",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Fone de Ouvido Bluetooth Compacto",
+    "price": 79.99,
+    "categories": [
+      "Áudio",
+      "Tecnologia",
+      "Mobilidade"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Suporte para Monitor Ergonômico",
+    "price": 24.99,
+    "categories": [
+      "Acessórios",
+      "Escritório",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Cadeira Gamer Reclinável",
+    "price": 249.99,
+    "categories": [
+      "Gamer",
+      "Conforto",
+      "Escritório"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Mesa Digitalizadora para Design",
+    "price": 199.99,
+    "categories": [
+      "Design",
+      "Tecnologia",
+      "Profissional"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Hub USB-C 6 em 1",
+    "price": 39.99,
+    "categories": [
+      "Computadores",
+      "Acessórios",
+      "Conectividade"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Luminária de Mesa LED Touch",
+    "price": 29.99,
+    "categories": [
+      "Iluminação",
+      "Escritório",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Adaptador HDMI para VGA",
+    "price": 14.99,
+    "categories": [
+      "Acessórios",
+      "Conectividade",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Rádio Relógio Despertador Digital",
+    "price": 49.99,
+    "categories": [
+      "Áudio",
+      "Casa",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Balança Digital Inteligente",
+    "price": 89.99,
+    "categories": [
+      "Saúde",
+      "Tecnologia",
+      "Casa"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Óculos de Realidade Virtual",
+    "price": 299.99,
+    "categories": [
+      "Entretenimento",
+      "Gamer",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Base Refrigeradora para Notebook",
+    "price": 34.99,
+    "categories": [
+      "Computadores",
+      "Acessórios",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Churrasqueira Elétrica Portátil",
+    "price": 89.99,
+    "categories": [
+      "Cozinha",
+      "Casa",
+      "Eletrodomésticos"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Cafeteira Automática com Moedor",
+    "price": 499.99,
+    "categories": [
+      "Cozinha",
+      "Eletrodomésticos",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Extensão Elétrica com USB",
+    "price": 24.99,
+    "categories": [
+      "Energia",
+      "Acessórios",
+      "Casa"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Câmera de Segurança Wi-Fi",
+    "price": 99.99,
+    "categories": [
+      "Segurança",
+      "Casa Inteligente",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Relógio Inteligente para Crianças",
+    "price": 59.99,
+    "categories": [
+      "Wearables",
+      "Saúde",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Projetor Portátil HD",
+    "price": 199.99,
+    "categories": [
+      "Entretenimento",
+      "Tecnologia",
+      "Casa"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Pen Drive 128GB USB 3.0",
+    "price": 29.99,
+    "categories": [
+      "Armazenamento",
+      "Acessórios",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "SSD Externo 1TB",
+    "price": 129.99,
+    "categories": [
+      "Armazenamento",
+      "Computadores",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Caixa de Som Portátil à Prova d'Água",
+    "price": 149.99,
+    "categories": [
+      "Áudio",
+      "Entretenimento",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Antena Digital Interna HD",
+    "price": 19.99,
+    "categories": [
+      "Televisores",
+      "Acessórios",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Carregador Veicular com 2 USB",
+    "price": 14.99,
+    "categories": [
+      "Mobilidade",
+      "Acessórios",
+      "Carros"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Limpador de Vidros Elétrico",
+    "price": 79.99,
+    "categories": [
+      "Casa",
+      "Tecnologia",
+      "Eletrodomésticos"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Trena a Laser 40m",
+    "price": 89.99,
+    "categories": [
+      "Ferramentas",
+      "Tecnologia",
+      "Profissional"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Termômetro Infravermelho Digital",
+    "price": 29.99,
+    "categories": [
+      "Saúde",
+      "Tecnologia",
+      "Casa"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Tapete de Yoga Antiderrapante",
+    "price": 24.99,
+    "categories": [
+      "Esportes",
+      "Saúde",
+      "Acessórios"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Almofada Massageadora Elétrica",
+    "price": 49.99,
+    "categories": [
+      "Saúde",
+      "Casa",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Batedeira Planetária Premium",
+    "price": 149.99,
+    "categories": [
+      "Cozinha",
+      "Eletrodomésticos",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Liquidificador Compacto 700W",
+    "price": 59.99,
+    "categories": [
+      "Cozinha",
+      "Eletrodomésticos",
+      "Saúde"
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Cortador de Legumes Multifuncional",
+    "price": 19.99,
+    "categories": [
+      "Cozinha",
+      "Acessórios",
+      "Praticidade"
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Ventilador de Mesa Turbo",
+    "price": 89.99,
+    "categories": [
+      "Climatização",
+      "Casa",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Câmera de Ação 4K à Prova d'Água",
+    "price": 199.99,
+    "categories": [
+      "Fotografia",
+      "Esportes",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Caneta Stylus para Tablets",
+    "price": 29.99,
+    "categories": [
+      "Acessórios",
+      "Tecnologia",
+      "Mobilidade"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Switch Gigabit 8 Portas",
+    "price": 49.99,
+    "categories": [
+      "Conectividade",
+      "Tecnologia",
+      "Redes"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Jogo de Panelas Antiaderentes 5 Peças",
+    "price": 79.99,
+    "categories": [
+      "Cozinha",
+      "Casa",
+      "Praticidade"
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Caixa Organizadora Transparente 30L",
+    "price": 19.99,
+    "categories": [
+      "Casa",
+      "Organização",
+      "Acessórios"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Cadeira Dobrável para Camping",
+    "price": 39.99,
+    "categories": [
+      "Esportes",
+      "Aventura",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Purificador de Água com Refil",
+    "price": 99.99,
+    "categories": [
+      "Saúde",
+      "Casa",
+      "Eletrodomésticos"
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Ferro de Passar Roupas a Vapor",
+    "price": 49.99,
+    "categories": [
+      "Casa",
+      "Eletrodomésticos",
+      "Praticidade"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Guarda-Chuva Automático Reforçado",
+    "price": 24.99,
+    "categories": [
+      "Acessórios",
+      "Mobilidade",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Mouse Ergonômico Wireless",
+    "price": 29.99,
+    "categories": [
+      "Tecnologia",
+      "Acessórios",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Piano Digital Portátil 88 Teclas",
+    "price": 499.99,
+    "categories": [
+      "Música",
+      "Tecnologia",
+      "Entretenimento"
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Aspirador de Pó Robô Inteligente",
+    "price": 299.99,
+    "categories": [
+      "Casa",
+      "Tecnologia",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Impressora Multifuncional Wi-Fi",
+    "price": 149.99,
+    "categories": [
+      "Escritório",
+      "Tecnologia",
+      "Praticidade"
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Monitor LED Full HD 24''",
+    "price": 199.99,
+    "categories": [
+      "Tecnologia",
+      "Escritório",
+      "Gamer"
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Tablet 10'' com Capa Protetora",
+    "price": 299.99,
+    "categories": [
+      "Mobilidade",
+      "Tecnologia",
+      "Entretenimento"
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Conjunto de Almofadas Decorativas",
+    "price": 34.99,
+    "categories": [
+      "Casa",
+      "Estilo",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Secador de Roupas Portátil",
+    "price": 89.99,
+    "categories": [
+      "Casa",
+      "Eletrodomésticos",
+      "Praticidade"
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Filtro de Linha com Proteção",
+    "price": 19.99,
+    "categories": [
+      "Acessórios",
+      "Energia",
+      "Segurança"
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Câmera Instantânea Compacta",
+    "price": 129.99,
+    "categories": [
+      "Fotografia",
+      "Entretenimento",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Mochila Executiva Antifurto",
+    "price": 59.99,
+    "categories": [
+      "Mobilidade",
+      "Segurança",
+      "Acessórios"
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Cozedor de Arroz Automático",
+    "price": 39.99,
+    "categories": [
+      "Cozinha",
+      "Eletrodomésticos",
+      "Praticidade"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Jogo de Lençóis King Size",
+    "price": 79.99,
+    "categories": [
+      "Casa",
+      "Conforto",
+      "Estilo"
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Boneco Colecionável de Super-Herói",
+    "price": 24.99,
+    "categories": [
+      "Entretenimento",
+      "Colecionáveis",
+      "Crianças"
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Relógio Analógico Minimalista",
+    "price": 49.99,
+    "categories": [
+      "Estilo",
+      "Acessórios",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Cama Inflável com Bomba Elétrica",
+    "price": 129.99,
+    "categories": [
+      "Casa",
+      "Mobilidade",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Conjunto de Luminárias de Jardim",
+    "price": 39.99,
+    "categories": [
+      "Casa",
+      "Jardim",
+      "Iluminação"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Chuveiro Elétrico com Controle Digital",
+    "price": 199.99,
+    "categories": [
+      "Casa",
+      "Conforto",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Moldura Digital para Fotos",
+    "price": 99.99,
+    "categories": [
+      "Fotografia",
+      "Casa",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Joystick Gamer com Iluminação RGB",
+    "price": 59.99,
+    "categories": [
+      "Gamer",
+      "Entretenimento",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Máquina de Costura Compacta",
+    "price": 199.99,
+    "categories": [
+      "Casa",
+      "DIY",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Barraca de Camping para 4 Pessoas",
+    "price": 149.99,
+    "categories": [
+      "Esportes",
+      "Aventura",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Fone In-Ear Premium com Microfone",
+    "price": 99.99,
+    "categories": [
+      "Áudio",
+      "Tecnologia",
+      "Conforto"
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Caneca Térmica com Tampa",
+    "price": 19.99,
+    "categories": [
+      "Cozinha",
+      "Casa",
+      "Mobilidade"
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Smart Plug Wi-Fi Inteligente",
+    "price": 29.99,
+    "categories": [
+      "Casa Inteligente",
+      "Tecnologia",
+      "Praticidade"
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Colchão Ortopédico Dobrável",
+    "price": 249.99,
+    "categories": [
+      "Casa",
+      "Conforto",
+      "Saúde"
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Barbeador à Prova d'Água",
+    "price": 49.99,
+    "categories": [
+      "Saúde",
+      "Tecnologia",
+      "Conforto"
+    ]
+  }
+]
