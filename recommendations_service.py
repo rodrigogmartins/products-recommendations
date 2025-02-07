@@ -8,11 +8,10 @@ class RecommendationsService:
         self.vectorizer = vectorizer
 
     def get_user_interested_products(self, user_id):
-        products_ids = self.redis_client.zrange(f"products:events:view:user:{user_id}", 0, 2, desc=True)
+        products_ids = self.redis_client.zrange(f"products:events:view:users:{user_id}", 0, 2, desc=True)
         recommendations_query = self.__get_recommendations_query(products_ids)
         query_vector_bytes = self.__generate_query_embedding(recommendations_query).tobytes()
         recommended_products = self.__get_recommended_products(query_vector_bytes)
-
         return self.__map_recommendations_to_response(recommended_products)
 
     def __get_recommendations_query(self, product_ids):
