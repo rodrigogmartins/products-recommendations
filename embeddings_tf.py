@@ -64,12 +64,12 @@ def save_to_redis(redis_client, products_data, embeddings):
             }
         )
 
-def main():
-    redis_client = Redis(host="localhost", port=6379, decode_responses=False)
+def mock_embeddings(redis_client):
+    if redis_client.exists("embeddings_saved"):
+        return
+    
     products_data, descriptions = load_and_process_json("ProductsToRecommend.json")
     embeddings = generate_tfidf_embeddings(descriptions)
     save_to_redis(redis_client, products_data, embeddings)
-    print("Dados salvos na base vetorial do Redis.")
-
-if __name__ == "__main__":
-    main()
+    redis_client.set("embeddings_saved", "1")
+    print("Embeddings saved successfully!")

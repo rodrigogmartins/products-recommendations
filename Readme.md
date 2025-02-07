@@ -28,22 +28,12 @@ $ venv\Scripts\activate
 $ pip install redis redis-om scikit-learn flask transformers torche
 ```
 
-4. Rode o seguinte comando para criar eventos de visualização para o usuário **123e4567-e89b-12d3-a456-426614174007**
-```bash
-$ python user_events.py
-```
-
-5. Rode o seguinte comando para popular a base de dados vetorial
-```bash
-$ python embeddings_tf.py
-```
-
-6. Rode a aplicação através do comando
+4. Rode a aplicação através do comando
 ```bash
 $ python server.py
 ```
 
-7. Realize uma chamada para o serviço e obtenha as recomendações
+5. Realize uma chamada para o serviço e obtenha as recomendações
 ```bash
 $ curl --request GET
     --url 'http://localhost:5000/search?userId=123e4567-e89b-12d3-a456-426614174007'
