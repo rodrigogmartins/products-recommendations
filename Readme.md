@@ -11,30 +11,35 @@
 
 ## Rodando o Projeto
 
-1 . Execute os containers necessários para a aplicação
+1. Execute os containers necessários para a aplicação
+
 ```bash
-$ docker-compose up -d
+docker-compose up -d
 ```
 
 2. Instale e rode uma virtualenv
+
 ```bash
-$ pip3 install virtualenv
-$ python3.8 -m venv venv
-$ venv\Scripts\activate
+pip3 install virtualenv
+python3.8 -m venv venv
+venv\Scripts\activate
 ```
 
 3. Instale as dependências do projeto
+
 ```bash
-$ pip install redis redis-om scikit-learn flask transformers torche
+pip install redis redis-om scikit-learn flask transformers torche
 ```
 
 4. Rode a aplicação através do comando
+
 ```bash
-$ python server.py
+python server.py
 ```
 
 5. Realize uma chamada para o serviço e obtenha as recomendações
+
 ```bash
-$ curl --request GET
+curl --request GET
     --url 'http://localhost:5000/search?userId=123e4567-e89b-12d3-a456-426614174007'
 ```
