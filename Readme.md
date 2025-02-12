@@ -1,8 +1,8 @@
 # Recommendation System Using Vector Databases
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./docs/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./Readme.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./docs/Readme.pt-br.md)
 
-## Use Case  
+## Use Case
 
 An e-commerce platform with a large product catalog and user analytics data wants to implement a recommendation system so that users can obtain a list of the most relevant items based on previously viewed products.  
 
